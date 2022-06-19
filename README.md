@@ -1,1 +1,1 @@
-# GRIP
+# GRIP- Exploratory Data Analysis
